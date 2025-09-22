@@ -39,9 +39,8 @@
 ROS2框架自瞄开源
 
 3.同济开源：
-https://github.com/TongjiSuperPower/sp_vision_23
-这个是用python写的自瞄，可以参考，不建议用python，最好用c++
-
+https://github.com/TongjiSuperPower/sp_vision_25
+这个是25赛季同济开源纯C++代码
 4.海康相机标定：https://github.com/SMBU-PolarBear-Robotics-Team/hik_camera_ros2_driver（相机标定项目）			
              https://flowus.cn/lihanchen/share/facb28a9-5d34-42a7-9bc8-630a182c3571（相机标定流程）
 
