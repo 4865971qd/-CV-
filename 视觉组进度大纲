@@ -1,5 +1,5 @@
                                      RobotMaster机甲大师
-						                                      Ambition战队视觉组-ZFM
+						Ambition战队视觉组-ZFM
 	大一上学期：
 1.C++
 2.OpenCV基本使用
@@ -41,11 +41,20 @@ ROS2框架自瞄开源
 3.同济开源：
 https://github.com/TongjiSuperPower/sp_vision_25
 这个是25赛季同济开源纯C++代码
+
 4.海康相机标定：https://github.com/SMBU-PolarBear-Robotics-Team/hik_camera_ros2_driver（相机标定项目）			
              https://flowus.cn/lihanchen/share/facb28a9-5d34-42a7-9bc8-630a182c3571（相机标定流程）
 
 5.大一我写的装甲板识别项目：https://github.com/4865971qd/ZFM-DX-SJZ
 
+6.学习开源网站：https://docs.015609.best/algorithm
+
+7.单目相机雷达站：https://github.com/Y-Tomorrow/PFA_radar-2025
+
+8.livox激光雷达ros2功能包：https://github.com/shenxw0127/Livox-ROS2
+
+9.livox官网下载中心：https://www.livoxtech.com/cn/mid-70/downloads
+  livox SDK:	https://www.livoxtech.com/cn/sdk
 更多开源建议大家自己去RM社区，GitHub查找
  										
  										
